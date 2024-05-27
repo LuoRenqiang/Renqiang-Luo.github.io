@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Huafei Huang's Personal Site"
+title                    : "Renqiang Luo's Personal Site"
 # description              : "DUT Artificial Intelligence Institute, Dalian University of Technology, Dalian 116024, China"
-repository               : "huafeihuang/huafeihuang.github.io"
+repository               : "https://luorenqiang.github.io/Renqiang-Luo.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Huafei Huang"
+  name             : "Renqiang Luo"
   avatar           : "images/bio_photo.jpg"
   # bio              : "Assistant Research Fellow"
   location         : "Dalian, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_PlsOz8AAAAJ"
-  email            : "hhuafei98@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Huafei-Huang-2"
+  googlescholar    : "https://scholar.google.com/citations?user=yx6HsssAAAAJ"
+  email            : "lrenqiang@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Renqiang-Luo"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huafeihuang/"
+  github           : "luorenqiang/"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-7916-1645"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-8313-9835"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
