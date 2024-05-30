@@ -66,6 +66,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 
 # Research Interests
 - Graph Learning, Algorithmic Fairness, Trustworthy AI
+
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
@@ -74,6 +75,8 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
 <!-- - The First Prize in The Blue Bridge Cup Competition (Shanxi Province) (2019) -->
+
+<span class='anchor' id='-experiences'></span>
 
 # Invited Reviewer
 - International Joint Conference on Artificial Intelligence (IJCAI)
@@ -95,3 +98,11 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://arxiv.org/abs/2404.17169">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
 </ul>
+
+<span class='anchor' id='-experiences'></span>
+
+# News
+- 05/2024: One paper entitled: FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks accepted by KDD'24.
+- 05/2024: Serve as reviewer of TOPML.
+- 04/2024: One paper entitled: FairGT: A Fairness-aware Graph Transformer accepted by IJCAI'24.
+- 03/2024: Serve as reviewer of IJCAI'24.
