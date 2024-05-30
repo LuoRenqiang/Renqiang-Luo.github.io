@@ -44,7 +44,6 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
       M.Sc. (Data Science), 2017-2019
     </div>
   </li>
-  </li>
   <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
       Dalian University of Technology
