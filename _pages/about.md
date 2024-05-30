@@ -44,6 +44,15 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
       M.Sc. (Data Science), 2017-2019
     </div>
   </li>
+  </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      Dalian University of Technology
+    </div>
+  	<div class="right" style="box-sizing: border-box;">
+      PhD (Data Science), 2020-Current
+    </div>
+  </li>
   <!-- <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
       DUT Artificial Intelligence Institute
@@ -83,7 +92,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 # Publications 
 
 <ul style="list-style-type: circle;">
-  <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD).</strong> </li>
+  <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://arxiv.org/abs/2405.17034">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://arxiv.org/abs/2404.17169">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. </li>
 </ul>
