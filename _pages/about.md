@@ -87,6 +87,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 - ACM Computing Surveys (CSUR)
 - ACM Transactions on Probabilistic Machine Learning (TOPML)
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
+- Humanities & social sciences communications
 - PLOS ONE
 
 <span class='anchor' id='-publications'></span>
@@ -102,7 +103,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 <span class='anchor' id='-experiences'></span>
 
 # News
-- 05/2024: One paper entitled: FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks accepted by KDD'24.
+- 05/2024: One paper entitled: <strong>FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</strong> accepted by KDD'24.
 - 05/2024: Serve as reviewer of TOPML.
-- 04/2024: One paper entitled: FairGT: A Fairness-aware Graph Transformer accepted by IJCAI'24.
+- 04/2024: One paper entitled: <strong>FairGT: A Fairness-aware Graph Transformer</strong> accepted by IJCAI'24.
 - 03/2024: Serve as reviewer of IJCAI'24.
