@@ -87,7 +87,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 - ACM Computing Surveys (CSUR)
 - ACM Transactions on Probabilistic Machine Learning (TOPML)
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
-- Humanities <p>&amp</p> social sciences communications
+- Humanities <p>&amp;</p> social sciences communications
 - PLOS ONE
 
 <span class='anchor' id='-publications'></span>
