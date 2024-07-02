@@ -22,7 +22,8 @@ redirect_from:
 
 # About Me
 
-Renqiang Luo received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc degree in Data Science from University of South Australia (UniSA), Australia, in 2019
+Renqiang Luo is a final-year Ph.D. candidate in Data Science at Dalian University of Technology advised by Prof. Feng Xia. 
+Before that, he received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc. degree in Data Science from University of South Australia (UniSA), Australia, in 2019
 
 <span class='anchor' id='-experiences'></span>
 
