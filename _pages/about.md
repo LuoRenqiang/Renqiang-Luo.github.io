@@ -70,7 +70,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 <span class='anchor' id='-honors-and-awards'></span>
 
 # Honors and Awards
-
+- KDD 2024 Student Travel Award
 - First Prize in The Chinese Mathematical Society, The 14th in the Jilin Province (2011)
 
 <!-- - The Honorable Mention in the MCM/ICM (2019) -->
@@ -103,6 +103,7 @@ Renqiang Luo received the BSc. degree in Probability and Statistics from Univers
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 07/2024: Awarded the Student Travel Award for attending KDD’24
 - 05/2024: One paper entitled: <strong>FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</strong> accepted by KDD'24.
 - 05/2024: Serve as reviewer of TOPML.
 - 04/2024: One paper entitled: <strong>FairGT: A Fairness-aware Graph Transformer</strong> accepted by IJCAI'24.
