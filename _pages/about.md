@@ -96,7 +96,7 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 # Publications 
 
 <ul style="list-style-type: circle;">
-  <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://arxiv.org/abs/2405.17034">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
+  <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://arxiv.org/abs/2405.17034">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://arxiv.org/abs/2404.17169">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
 </ul>
