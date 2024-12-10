@@ -50,7 +50,7 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
       Dalian University of Technology
     </div>
   	<div class="right" style="box-sizing: border-box;">
-      PhD (Data Science), 2020-Current
+      PhD (Data Science), 2020-2024
     </div>
   </li>
   <!-- <li style = "display:flex;justify-content:space-between;">
@@ -81,6 +81,8 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 
 # Invited Reviewer
 - International Joint Conference on Artificial Intelligence (IJCAI)
+- The ACM Web Conference
+- Information Processing and Management (IPM)
 - IEEE International Conference on Data Mining (ICDM)
 - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)
 - IEEE International Conference on Big Data (BigData)
@@ -96,6 +98,8 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 # Publications 
 
 <ul style="list-style-type: circle;">
+  <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Ivan Lee, Chengpei Xu, Jianzhong Qi, Feng Xia. 2025. FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning. <strong>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)</strong>. </li>
+  <li>Mingliang Hou, Xueyi Li, Teng Guo, Zitao Liu, Mi Tian, <u><strong>Renqiang Luo</strong></u>, Weiqi Luo. 2025. Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing. <strong>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI)</strong>. </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://arxiv.org/abs/2405.17034">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://arxiv.org/abs/2404.17169">(arxiv)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
@@ -104,6 +108,7 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 12/2024: Two paper entitled: <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> and <strong>Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing</strong> accepted by AAAI'25.
 - 07/2024: Awarded the Student Travel Award for attending KDD’24
 - 05/2024: One paper entitled: <strong>FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</strong> accepted by KDD'24.
 - 05/2024: Serve as reviewer of TOPML.
