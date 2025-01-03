@@ -108,6 +108,9 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 01/2025: Serve as PC member of WWW'25 - Web for Good
+- 01/2025: Serve as reviewer of TIST
+- 12/2024: Serve as reviewer of IPM
 - 12/2024: Two paper entitled: <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> and <strong>Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing</strong> accepted by AAAI'25.
 - 07/2024: Awarded the Student Travel Award for attending KDD’24
 - 05/2024: One paper entitled: <strong>FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</strong> accepted by KDD'24.
