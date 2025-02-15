@@ -109,6 +109,7 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 02/2025: The paper <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> has been invited to be presented at an oral session at AAAI 2025.
 - 01/2025: Serve as PC member of IJCAI'25.
 - 01/2025: One paper entitled: <strong>Factor Graph-based Interpretable Neural Networks</strong> accepted by ICLR'25.
 - 01/2025: Serve as PC member of WWW'25 - Web for Good.
