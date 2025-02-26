@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Renqiang Luo's Personal Site"
-# description              : "DUT Artificial Intelligence Institute, Dalian University of Technology, Dalian 116024, China"
+# description              : "Colledge of Computer Science Technology, Jilin University, Changchun 130012, China"
 repository               : "https://luorenqiang.github.io/Renqiang-Luo.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Renqiang Luo"
   avatar           : "images/bio_photo.jpg"
   # bio              : "Assistant Research Fellow"
-  location         : "Dalian, China"
+  location         : "Changchun, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=yx6HsssAAAAJ"
