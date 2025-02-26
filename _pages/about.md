@@ -22,8 +22,9 @@ redirect_from:
 
 # About Me
 
-Renqiang Luo is a final-year Ph.D. candidate in Data Science at Dalian University of Technology advised by Prof. Feng Xia. 
-Before that, he received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc. degree in Data Science from University of South Australia (UniSA), Australia, in 2019
+I am an Assistant Professor in the College of Computer Science and Technology at Jilin University. 
+Prior to that, I obatained my Ph.D. degree from Dalian University of Technology advised by Prof. Feng Xia. 
+Before that, I received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc. degree in Data Science from University of South Australia (UniSA), Australia, in 2019
 
 <span class='anchor' id='-experiences'></span>
 
@@ -109,6 +110,7 @@ Before that, he received the BSc. degree in Probability and Statistics from Univ
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 02/2025: New position started in the College of Computer Science and Technology at <strong>Jilin University</strong>.
 - 02/2025: The paper <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> has been invited to be presented at an oral session at AAAI 2025.
 - 01/2025: Serve as PC member of IJCAI'25.
 - 01/2025: One paper entitled: <strong>Factor Graph-based Interpretable Neural Networks</strong> accepted by ICLR'25.
