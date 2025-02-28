@@ -80,19 +80,12 @@ Before that, I received the BSc. degree in Probability and Statistics from Unive
 
 <span class='anchor' id='-experiences'></span>
 
-# Invited Reviewer
+# Services
+## Invited Program Committee Member:
 - International Joint Conference on Artificial Intelligence (IJCAI)
-- The ACM Web Conference
-- Information Processing and Management (IPM)
-- IEEE International Conference on Data Mining (ICDM)
-- International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)
-- IEEE International Conference on Big Data (BigData)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- ACM Computing Surveys (CSUR)
-- ACM Transactions on Probabilistic Machine Learning (TOPML)
-- ACM Transactions on Knowledge Discovery from Data (TKDD)
-- Humanities &amp; social sciences communications
-- PLOS ONE
+
+## Invited Reviewer & External Reviewer:
+AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 
 <span class='anchor' id='-publications'></span>
 
@@ -110,6 +103,7 @@ Before that, I received the BSc. degree in Probability and Statistics from Unive
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 02/2025: Serve as reviewer of KDD'25.
 - 02/2025: New position started in the College of Computer Science and Technology at <strong>Jilin University</strong>.
 - 02/2025: The paper <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> has been invited to be presented at an oral session at AAAI 2025.
 - 01/2025: Serve as PC member of IJCAI'25.
