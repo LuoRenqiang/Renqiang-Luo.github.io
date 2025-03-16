@@ -54,6 +54,14 @@ Before that, I received the BSc. degree in Probability and Statistics from Unive
       PhD (Data Science), 2020-2024
     </div>
   </li>
+  <li style = "display:flex;justify-content:space-between;">
+    <div class="left" style="box-sizing: border-box;">
+      Jilin University
+    </div>
+  	<div class="right" style="box-sizing: border-box;">
+      AP (Computer Science and Technology), 2025-
+    </div>
+  </li>
   <!-- <li style = "display:flex;justify-content:space-between;">
     <div class="left" style="box-sizing: border-box;">
       DUT Artificial Intelligence Institute
