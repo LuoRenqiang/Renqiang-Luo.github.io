@@ -113,7 +113,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 <span class='anchor' id='-experiences'></span>
 
 # News
-- 04/2025: Serve as PC member of ECAI'26.
+- 04/2025: Serve as PC member of ECAI'25.
 - 03/2025: One paper entitled: <strong>Multi-type Social Patterns-based Graph Learning</strong> accepted by Neurocomputing.
 - 02/2025: Serve as reviewer of KDD'25.
 - 02/2025: New position started in the College of Computer Science and Technology at <strong>Jilin University</strong>.
