@@ -113,6 +113,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 06/2025: Awarded the Outstanding Reviewer at KDD'25.
 - 04/2025: Serve as PC member of ECAI'25.
 - 03/2025: One paper entitled: <strong>Multi-type Social Patterns-based Graph Learning</strong> accepted by Neurocomputing.
 - 02/2025: Serve as reviewer of KDD'25.
@@ -125,7 +126,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 - 12/2024: Serve as reviewer of The ACM Web Conference'25.
 - 12/2024: Serve as reviewer of IPM.
 - 12/2024: Two paper entitled: <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> and <strong>Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing</strong> accepted by AAAI'25.
-- 07/2024: Awarded the Student Travel Award for attending KDD’24.
+- 07/2024: Awarded the Student Travel Award for attending KDD'24.
 - 05/2024: One paper entitled: <strong>FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</strong> accepted by KDD'24.
 - 05/2024: Serve as reviewer of TOPML.
 - 04/2024: One paper entitled: <strong>FairGT: A Fairness-aware Graph Transformer</strong> accepted by IJCAI'24.
