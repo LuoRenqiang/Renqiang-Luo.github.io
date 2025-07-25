@@ -105,6 +105,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671834">(KDD)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://www.ijcai.org/proceedings/2024/50">(IJCAI)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
+  <li>Feng Xia, Ciyuan Peng, Jing Ren, Falih Gozi Febrinanto, <u><strong>Renqiang Luo</strong></u>, Vidya Saikrishna, Shuo Yu, Xiangjie Kong. 2025. Graph Learning. <strong>arXiv preprint arXiv:2507.05636</strong>. <a href="https://arxiv.org/abs/2507.05636">(arxiv)</a></li>
   <li>Shuo Yu, Zhuoyang Han, Feng Ding, Huafei Huang, <u><strong>Renqiang Luo</strong></u>, Guoqing Han, Feng Xia. 2025. Multi-type Social Patterns-based Graph Learning. <strong>Neurocomputing</strong>. </li>
   <li>Yicong Li, Kuanjiu Zhou, Shuo Yu, Qiang Zhang, <u><strong>Renqiang Luo</strong></u>, Xiaodong Li, Feng Xia. 2025. Factor Graph-based Interpretable Neural Networks. <strong>Proceedings of the 13th International Conference on Learning Representations (ICLR)</strong>. </li>
   <li>Mingliang Hou, Xueyi Li, Teng Guo, Zitao Liu, Mi Tian, <u><strong>Renqiang Luo</strong></u>, Weiqi Luo. 2025. Cognitive Fluctuations Enhanced Attention Network for Knowledge Tracing. <strong>Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)</strong>. </li>
@@ -113,6 +114,8 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 07/2025: Serve as reviewer of KDD'26.
+- 07/2025: Serve as PC member of AAAI'26.
 - 06/2025: Awarded the Outstanding Reviewer at KDD'25.
 - 04/2025: Serve as PC member of ECAI'25.
 - 03/2025: One paper entitled: <strong>Multi-type Social Patterns-based Graph Learning</strong> accepted by Neurocomputing.
