@@ -24,7 +24,7 @@ redirect_from:
 
 I am an Assistant Professor in the College of Computer Science and Technology at Jilin University. 
 Prior to that, I obatained my Ph.D. degree from Dalian University of Technology advised by Prof. Feng Xia. 
-Before that, I received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc. degree in Data Science from University of South Australia (UniSA), Australia, in 2019
+Before that, I received the BSc. degree in Probability and Statistics from University of Science and Technology of China (USTC), China, in 2016, and the MSc. degree in Data Science from University of South Australia (UniSA), Australia, in 2019.
 
 <span class='anchor' id='-experiences'></span>
 
@@ -105,6 +105,8 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Zhuoyang Han, Jiayuan He, Xiuzhen Zhang, and Feng Xia. 2024. FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks. <strong>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)</strong>. <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671834">(KDD)</a> <a href="https://github.com/LuoRenqiang/FUGNN">(CODE)</a> </li>
   <li><u><strong>Renqiang Luo</strong></u>, Huafei Huang, Shuo Yu, Xiuzhen Zhang, and Feng Xia. 2024. FairGT: A Fairness-aware Graph Transformer. <strong>Proceedings of the International Joint Conference on Artificial  Intelligence (IJCAI)</strong>. <a href="https://www.ijcai.org/proceedings/2024/50">(IJCAI)</a> <a href="https://github.com/LuoRenqiang/FairGT">(CODE)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
+  <li><u><strong>Renqiang Luo</strong></u>, Ziqi Xu, Xikun Zhang, Qing Qing, Huafei Huang, Enyan Dai, Zhe Wang, Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv preprint arXiv:2504.21296</strong>.<a href="https://arxiv.org/abs/2504.21296">(arxiv)</a></li>
+  <li>Tao Tang, Guoqing Han, <u><strong>Renqiang Luo*</strong></u>, Feng Ding*, Shuo Yu, Ivan Lee. 2025. RMTrans: Robust Multimodal Transformers for Patient Prognosis under Backdoor Treats. <strong>ACM Transactions on Intelligent Systems and Technology</strong>. <a href="https://dl.acm.org/doi/abs/10.1145/3749989">(TIST)</a></li>
   <li>Feng Xia, Ciyuan Peng, Jing Ren, Falih Gozi Febrinanto, <u><strong>Renqiang Luo</strong></u>, Vidya Saikrishna, Shuo Yu, Xiangjie Kong. 2025. Graph Learning. <strong>arXiv preprint arXiv:2507.05636</strong>. <a href="https://arxiv.org/abs/2507.05636">(arxiv)</a></li>
   <li>Shuo Yu, Zhuoyang Han, Feng Ding, Huafei Huang, <u><strong>Renqiang Luo</strong></u>, Guoqing Han, Feng Xia. 2025. Multi-type Social Patterns-based Graph Learning. <strong>Neurocomputing</strong>. </li>
   <li>Yicong Li, Kuanjiu Zhou, Shuo Yu, Qiang Zhang, <u><strong>Renqiang Luo</strong></u>, Xiaodong Li, Feng Xia. 2025. Factor Graph-based Interpretable Neural Networks. <strong>Proceedings of the 13th International Conference on Learning Representations (ICLR)</strong>. </li>
@@ -116,12 +118,13 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 # News
 - 07/2025: Serve as reviewer of KDD'26.
 - 07/2025: Serve as PC member of AAAI'26.
+- 06/2025: One paper entitled: <strong>RMTrans: Robust Multimodal Transformers for Patient Prognosis under Backdoor Threats</strong> accepted by TIST. 
 - 06/2025: Awarded the Outstanding Reviewer at KDD'25.
 - 04/2025: Serve as PC member of ECAI'25.
 - 03/2025: One paper entitled: <strong>Multi-type Social Patterns-based Graph Learning</strong> accepted by Neurocomputing.
 - 02/2025: Serve as reviewer of KDD'25.
 - 02/2025: New position started in the College of Computer Science and Technology at <strong>Jilin University</strong>.
-- 02/2025: The paper <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> has been invited to be presented at an oral session at AAAI 2025.
+- 02/2025: The paper <strong>FairGP: A Scalable and Fair Graph Transformer Using Graph Partitioning</strong> has been invited to be presented at an oral session at AAAI'25.
 - 01/2025: Serve as PC member of IJCAI'25.
 - 01/2025: One paper entitled: <strong>Factor Graph-based Interpretable Neural Networks</strong> accepted by ICLR'25.
 - 01/2025: Serve as PC member of WWW'25 - Web for Good.
