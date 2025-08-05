@@ -107,6 +107,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
   <li><u><strong>Renqiang Luo</strong></u>, Tao Tang, Feng Xia, Jiaying Liu, Chengpei Xu, Leo Yu Zhang, Wei Xiang, Chengqi Zhang. 2024. Algorithmic Fairness: A Tolerance Perspective. <strong>arXiv preprint arXiv:2405.09543</strong>. <a href="https://arxiv.org/abs/2405.09543">(arxiv)</a></li>
   <li><u><strong>Renqiang Luo</strong></u>, Ziqi Xu, Xikun Zhang, Qing Qing, Huafei Huang, Enyan Dai, Zhe Wang, Bo Yang. 2025. Fairness in Graph Learning Augmented with Machine Learning: A Survey. <strong>arXiv preprint arXiv:2504.21296</strong>.<a href="https://arxiv.org/abs/2504.21296">(arxiv)</a></li>
   <li>Tao Tang, Guoqing Han, <u><strong>Renqiang Luo*</strong></u>, Feng Ding*, Shuo Yu, Ivan Lee. 2025. RMTrans: Robust Multimodal Transformers for Patient Prognosis under Backdoor Treats. <strong>ACM Transactions on Intelligent Systems and Technology</strong>. <a href="https://dl.acm.org/doi/abs/10.1145/3749989">(TIST)</a></li>
+  <li>Bo Zhao, Yinghao Zhang, Ziqi Xu, Yongli Ren, Xiuzhen Zhang, Renqiang Luo, Zaiwen Feng, Feng Xia. 2025. Unbiased Reasoning for Knowledge-Intensive Tasks in Large Language Models via Conditional Front-Door Adjustment. <strong>Proceeding of the 34th ACM International Conference on Information and Knowledge Management</strong>. </li>
   <li>Feng Xia, Ciyuan Peng, Jing Ren, Falih Gozi Febrinanto, <u><strong>Renqiang Luo</strong></u>, Vidya Saikrishna, Shuo Yu, Xiangjie Kong. 2025. Graph Learning. <strong>arXiv preprint arXiv:2507.05636</strong>. </li>
   <li>Shuo Yu, Zhuoyang Han, Feng Ding, Huafei Huang, <u><strong>Renqiang Luo</strong></u>, Guoqing Han, Feng Xia. 2025. Multi-type Social Patterns-based Graph Learning. <strong>Neurocomputing</strong>. </li>
   <li>Yicong Li, Kuanjiu Zhou, Shuo Yu, Qiang Zhang, <u><strong>Renqiang Luo</strong></u>, Xiaodong Li, Feng Xia. 2025. Factor Graph-based Interpretable Neural Networks. <strong>Proceedings of the 13th International Conference on Learning Representations (ICLR)</strong>. </li>
@@ -116,6 +117,7 @@ AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 <span class='anchor' id='-experiences'></span>
 
 # News
+- 08/2025: One paper entitled: <strong>Unbiased Reasoning for Knowledge-Intensive Tasks in Large Language Models via Conditional Front-Door Adjustment</strong> accepted by CIKM'25.
 - 07/2025: Serve as reviewer of KDD'26.
 - 07/2025: Serve as PC member of AAAI'26.
 - 06/2025: One paper entitled: <strong>RMTrans: Robust Multimodal Transformers for Patient Prognosis under Backdoor Threats</strong> accepted by TIST. 
