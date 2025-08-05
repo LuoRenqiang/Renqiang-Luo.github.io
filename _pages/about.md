@@ -91,10 +91,11 @@ Before that, I received the BSc. degree in Probability and Statistics from Unive
 # Services
 ## Invited Program Committee Member:
 - International Joint Conference on Artificial Intelligence (IJCAI)
+- AAAI Conference on Aritifical Intelligence (AAAI)
 - European Conference on Artificial Intelligence (ECAI)
 
 ## Invited Reviewer & External Reviewer:
-AAAI, WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
+WWW, KDD, IPM, ICDM, ICA3PP, TIST, BigData, TNNLS, CSUR, TOPML, TKDD, etc.
 
 <span class='anchor' id='-publications'></span>
 
