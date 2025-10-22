@@ -30,55 +30,51 @@
     <h1 style="margin-top: 0em">Research</h1>
 
     <p style="font-style: italic; margin-bottom: 30px;">
-        My research lies at the intersection of machine learning methodology and trustworthy AI systems, focusing on robust and scalable learning paradigms for complex data structures and societal applications.
+        My research lies at the intersection of machine learning methodology and trustworthy AI systems, focusing on fairness, privacy and explainability of algorithms.
         <br>
         Interested in joining the team? See our <a href="groups.html">Group page</a> for open positions.
     </p>
 
-    <h2 style="color: #00796B;">&#x1F578;&#xFE0F; Theme 1: Trustworthy Graph Learning and GNN Robustness</h2>
+    <h2 style="color: #00796B;">&#x1F578;&#xFE0F; Theme 1: Algorithmic Fairness</h2>
     <p>
-        Graphs are powerful models for real-world interconnected data (social networks, molecules, brain connectivity). My work aims to build <strong>scalable and reliable Graph Neural Networks (GNNs)</strong> that are robust to noise, adaptable to dynamic changes, and capable of handling heterogeneous information.
+        My work aims to build <strong>fairness Graph Neural Networks (GNNs)</strong> that are unbiased to different gender, race, region etc.
     </p>
     <ul style="list-style-type: disc;">
-        <li><strong>Key Focus:</strong> Designing GNN architectures that maintain performance under adversarial attacks (e.g., node feature perturbation or edge deletion).</li>
-        <li><strong>Recent Projects:</strong> Developing <strong>Self-Supervised Topology Smoothing</strong> for enhancing GNN generalization; <strong>Dynamic Graph Evolution Modeling</strong> for temporal link prediction.</li>
+        <li><strong>Key Focus:</strong> Designing GNN architectures that maintain performance under fairness-aware.</li>
+        <li><strong>Recent Projects:</strong> Developing <strong>fairness-aware encoding</strong> for enhancing Graph Transformer fairness; <strong>spectral analysis</strong> for harmonizing fairness and utility in GNNs.</li>
     </ul>
     
     <div style="margin-top: 15px; padding: 10px; background-color: #E0F2F1; border-left: 4px solid #00796B;">
-        &#x1F4C3; <strong>Related Publications:</strong> [<a href="publications.html#gnn-robust">Robust GNNs against Adversarial Attacks</a>] | 
-        [<a href="publications.html#dynamic-gcn">Spatio-Temporal GCN for Traffic Flow</a>]
+        &#x1F4C3; <strong>Related Publications:</strong> [<a href="https://www.ijcai.org/proceedings/2024/0050.pdf">FairGT: A Fairness-aware Graph Transformer</a>] | 
+        [<a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671834">FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks</a>]
     </div>
 
     <hr>
 
-    <h2 style="color: #D32F2F;">&#x2696;&#xFE0F; Theme 2: Algorithmic Fairness and Explainable AI (XAI)</h2>
-    <p>
-        The increasing deployment of AI in high-stakes domains (e.g., finance, healthcare) necessitates a focus on <strong>equity and transparency</strong>. This research stream develops methods to measure, mitigate, and explain algorithmic bias, ensuring models treat different demographic groups fairly.
-    </p>
-    <ul style="list-style-type: disc;">
-        <li><strong>Key Focus:</strong> Defining and enforcing <strong>group fairness constraints</strong> in graph-structured data and sequential decision-making processes.</li>
-        <li><strong>Recent Projects:</strong> Developing <strong>Counterfactual Explanations</strong> for biased graph classifications; <strong>Fairness-Aware Reinforcement Learning</strong> for resource allocation.</li>
-    </ul>
-
+   <h2 style="color: #D32F2F;">&#x2696;&#xFE0F; Theme 2: Algorithmic Privacy</h2> 
+    <p> 
+        Focusing on robustness and security of AI, especially Multimodal Transformers, in high-stakes domains like healthcare. This stream addresses vulnerabilities, such as backdoor attacks, to ensure the integrity and reliability of AI-driven patient prognosis systems. 
+    </p> 
+    <ul style="list-style-type: disc;"> 
+        <li>Key Focus: Enhancing the security of Multimodal Transformers (ViT) for disease prognosis against backdoor threats in integrated clinical data.</li> 
+        <li>Recent Projects: Proposing RMTrans, a robust multimodal framework; developing a patch-based processing method to mitigate trigger over-fitting and enhance global feature learning.</li> </ul>
+    
     <div style="margin-top: 15px; padding: 10px; background-color: #FFEBEE; border-left: 4px solid #D32F2F;">
-        &#x1F4C3; <strong>Related Publications:</strong> [<a href="publications.html#fair-gsa">Fairness in Graph Social Analysis</a>] | 
-        [<a href="publications.html#xai-rl">Interpretable Decisions in RL</a>]
+        &#x1F4C3; <strong>Related Publications:</strong> [<a href="https://dl.acm.org/doi/abs/10.1145/3749989"></a>RMTrans: Robust Multimodal Transformers for Patient Prognosis under Backdoor Threats] 
     </div>
 
     <hr>
 
-    <h2 style="color: #1976D2;">&#x1F9E0; Theme 3: Large Language Models (LLM) and Knowledge Augmentation</h2>
-    <p>
-        This direction explores methods to enhance the reasoning and knowledge retrieval capabilities of LLMs. We focus on integrating <strong>structured knowledge (graphs, databases)</strong> to overcome LLMs' reliance on implicit knowledge and their propensity for "hallucination."
-    </p>
-    <ul style="list-style-type: disc;">
-        <li><strong>Key Focus:</strong> Using <strong>Knowledge Graphs (KGs)</strong> to ground LLM outputs and enable complex, multi-hop reasoning.</li>
-        <li><strong>Recent Projects:</strong> <strong>Graph-Augmented Retrieval-Augmented Generation (G-RAG)</strong> for enterprise search; <strong>LLM-Based Schema Induction</strong> for automated KG construction.</li>
-    </ul>
-
-    <div style="margin-top: 15px; padding: 10px; background-color: #E3F2FD; border-left: 4px solid #1976D2;">
-        &#x1F4C3; <strong>Related Publications:</strong> [<a href="publications.html#g-rag-24">Graph-RAG: Grounding LLMs with KGs</a>] | 
-        [<a href="publications.html#schema-ind">Automated Schema Induction with LLMs</a>]
+    <h2 style="color: #D32F2F;">&#x2696;&#xFE0F; Theme 3: Algorithmic Explainability</h2> 
+    <p> 
+        Comprehensible neural network explanations are crucial for decision-making, especially when models face malicious perturbations. This research addresses the limitations of adversarial training by developing a method to generate interpretable and logical explanations even under unknown perturbations, ensuring explanations align with real-world logic. 
+    </p> 
+    <ul style="list-style-type: disc;"> 
+        <li>Key Focus: Designing the AGAIN (fActor GrAph-based Interpretable neural Network) framework to generate comprehensible explanations under unknown perturbations by directly integrating logical rules during inference.</li> 
+        <li>Recent Projects: Constructing a factor graph to express logical rules and identify/rectify logical errors in explanations; proposing an interactive intervention switch strategy for rectification without perturbation retraining.</li> </ul>
+    
+    <div style="margin-top: 15px; padding: 10px; background-color: #FFEBEE; border-left: 4px solid #D32F2F;"> 
+        &#x1F4C3; <strong>Related Publications:</strong> [<a href="https://openreview.net/forum?id=10DtLPsdro"></a>Factor Graph-based Interpretable Neural Networks]
     </div>
 
 </td>
